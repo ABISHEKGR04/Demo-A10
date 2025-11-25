@@ -6,5 +6,6 @@ public class GitPractice2 {
 	@Test
 	public void m1() {
 		System.out.println("Hello!");
+		System.out.println("Pushing through branch");
 	}
 }
