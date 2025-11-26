@@ -7,6 +7,6 @@ public class GitPractice2 {
 	public void m1() {
 		System.out.println("Hello!");
 		System.out.println("Pushing through branch");
-		System.out.println("Pushing in branch");
 	}
 }
+
